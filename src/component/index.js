@@ -4,7 +4,7 @@ import Footer from './Footer'
 
 function index() {
     return (
-        <div>
+        <div className="w3-mobile">
             <Body />
             <Footer />
         </div>

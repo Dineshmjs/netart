@@ -3,8 +3,8 @@ import award from '../img/2.png'
 
 function Award() {
     const size = {
-        marginLeft:"100px",
-        width:"70%",
+        marginLeft:"10%",
+        width:"75%",
         height:"250px",
         border:"5px solid white"
     }

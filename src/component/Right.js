@@ -6,7 +6,7 @@ import DownContent from './DownContent'
 
 function Right() {
     return (
-        <div>            
+        <div className="p-0">            
             <Head />    
             <UpContent />        
             <Award /> 
