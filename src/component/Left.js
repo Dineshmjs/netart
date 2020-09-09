@@ -1,5 +1,6 @@
 import React from 'react'
 import Shield from '../img/1.png'
+import '../style/app.css'
 
 function Left() {
     return (
