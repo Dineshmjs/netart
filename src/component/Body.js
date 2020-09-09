@@ -7,11 +7,11 @@ import UpperBody from './UpperBody'
 
 function Body() {
     return (
-        <div>
+        <>
             <UpperBody />
             <MiddleBody />
             <LowerBody />
-        </div>   
+        </>   
     )
 }
 

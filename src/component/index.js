@@ -4,10 +4,10 @@ import Footer from './Footer'
 
 function index() {
     return (
-        <div className="w3-mobile">
+        <>
             <Body />
             <Footer />
-        </div>
+        </>
     )
 }
 
